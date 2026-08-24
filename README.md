@@ -10,25 +10,9 @@ Spatial Text Grouping: Joins related text fragments left-to-right to read comple
 
 Power & Root Handling:
 
-Preserves multi-digit superscript powers (e.g., 3 
-3
- , 16 
-9
- ) without truncation.
+Preserves multi-digit superscript powers without truncation.
 
-Supports square roots, cube roots, and indexed root formats (e.g.,  
-2
-  
-256
-
-​
- →16,  
-3
-  
-27
-
-​
- →3).
+Supports square roots, cube roots, and indexed root formats
 
 Advanced Math Operations: Supports MOD, REMAINDER, HCF, GCD, LCM, POWER, ROOT, ROOTS, SUM OF SQUARES (e.g., 14→3 2 1), and PRIME FACTORS (e.g., 12→2 2 3).
 
